@@ -1,6 +1,4 @@
-members: NIMISH AGRAWAL , DIVYANSHU KUMAR , MEHUL TAMBI , NIKHIL MOGALAPALLI , SARTHAK DHIMAN
-
-compilation and running code part_3/semantic part_4 part_5:
+Compilation and running code part_3/semantic part_4 part_5:
 
 flex DMNNP007.l
 yacc -d DMNNP007.y
